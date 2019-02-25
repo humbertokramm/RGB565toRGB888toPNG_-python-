@@ -9,3 +9,7 @@ http://www.barth-dev.de/online/rgb565-color-picker/
 
 Just call your array containing all the pixels. And set the width and height of the image.
 I also left a test sequence to check if the pixel position is correct.
+
+# Libraries:
+numpy
+pillow
